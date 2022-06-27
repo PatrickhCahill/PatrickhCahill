@@ -2,7 +2,6 @@
 - 👀 I’m interested in psephology (election analysis) and web development.
 - 🌱 I’m currently studying mathematics and philosophy at the University of Sydney
 - 💞️ I’m looking to collaborate on React Components for interactive website articles
-- 📫 How to reach me patrickh.cahill@gmail.com.
 
 <!---
 PatrickhCahill/PatrickhCahill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
